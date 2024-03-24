@@ -8,25 +8,21 @@ main {
     background-color: lime;
 }
 /* Align the h1 containing your name in the center of the header*/
-image {
-    width: 255px;
-    height: 260px;
-    border-radius: 50%;
-    overflow: hidden;
-    margin: 25px auto;
-    border: 15px solid;
-}
+
 /* Make your p tag a different color and italic */
 footer p {
     color: purple;
     font-style: italic;
 }
 /* Put a border around your image */
-main img {
-    border: 50px;
-    border-color: blue;
+img {
+    width: 255px;
+    height: 260px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 25px auto;
+    border: 15px groove;
 }
-
 /* Change the font-family of your list */
 ul {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
